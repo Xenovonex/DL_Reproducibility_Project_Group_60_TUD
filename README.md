@@ -1,12 +1,14 @@
 # README 
 
-The readme of the Deep Image Prior Reproducibility Project code by group 60:
+The Readme of the Deep Image Prior Reproducibility Project code by group 60:
 
 Jitske de Vries
 
 Willem Jan Tempelaar
 
 Rutger Dirks 
+
+Under supervision of Attila Lengyel, TU Delft.
 
 For the course CS4240 Deep Learning at the Delft University of Technology (TU Delft).
 
