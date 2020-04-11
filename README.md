@@ -3,7 +3,9 @@
 The readme of the Deep Image Prior Reproducibility Project code by group 60:
 
 Jitske de Vries
+
 Willem Jan Tempelaar
+
 Rutger Dirks 
 
 For the course CS4240 Deep Learning at the Delft University of Technology (TU Delft).
