@@ -31,7 +31,7 @@ The replicated code is used to reproduce the images shown in the article by Ulya
 of the Inpainting and Flash - no Flash networks. Furthermore, a hyperparameter research is done on the Inpainting network
 as well as experiments with the Denoising and Inpainting networks to try to denoise the no Flash image.  
 
-The reproduction study can be viewed in the following link:  
+The reproduction study can be viewed in the following link: https://medium.com/@w.j.tempelaar/1f6e869a6dfe
 
 ## Instructions
 
