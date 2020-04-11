@@ -8,7 +8,7 @@ Rutger Dirks
 
 For the course CS4240 Deep Learning at the Delft University of Technology (TU Delft).
 
-## Citation: The provided code is a replication from the Deep Image Prior code cited below, including the link to github.
+### Citation: The provided code is a replication from the Deep Image Prior code cited below, including the link to github.
 
 git clone https://github.com/DmitryUlyanov/deep-image-prior.git
 @article{UlyanovVL17,
