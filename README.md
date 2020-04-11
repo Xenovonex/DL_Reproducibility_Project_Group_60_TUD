@@ -46,9 +46,9 @@ with some extensions to locate the right directories, compute the PSNR and save 
 #### Execute code
 When downloaded to Google Drive, open the .ipynb files with Google Colab.
 Uncomment the 
-"os.chdir('/content/drive/My Drive/Group60_Reproducibility_project_code')"
+"os.chdir('/content/drive/My Drive/Group60_Reproducibility_project_code-master')"
 code in each third code block and comment the: 
-"os.chdir('/content/drive/My Drive/Deep learning reproducibility project/Group60_Reproducibility_project_code')"
+"os.chdir('/content/drive/My Drive/Deep learning reproducibility project/Group60_Reproducibility_project_code-master')"
 or change it to the appropriate directory from which you will execute the code.
 
 Set the Runtime type to Python 3 and GPU and run the code.
