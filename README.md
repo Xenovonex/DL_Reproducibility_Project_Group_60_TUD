@@ -70,4 +70,6 @@ which contain the results from the Inpaining network for different hyperparamete
 The "models" and "utils" directories contain replicated code models and utilities from Ulyanov, 2017
 that is used by the networks.
 
+The Reproducibility_Deep_Learning_Equations_Form.pdf contains the equations that were discussed in the reproducibility study report.
+
 
